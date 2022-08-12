@@ -3,7 +3,7 @@ import Animals from './collections/Animals';
 import Users from './collections/Users';
 
 export default buildConfig({
-  serverURL: process.env.PAYLOAD_PUBLIC_BASE_DNS,
+  serverURL: 'http://localhost:3000',
   admin: {
     user: Users.slug,
   },
