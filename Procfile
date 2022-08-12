@@ -1,1 +1,1 @@
-web:node payload.config.js
+web:yarn payload.config.js
