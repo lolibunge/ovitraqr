@@ -1,0 +1,1 @@
+web:node payload.config.js
